@@ -72,6 +72,7 @@ O(1)
 
 
 3️⃣ Count Digits Using log10()
+
 📌 Description
 
 This program finds the number of digits using a mathematical formula instead of a loop.
@@ -89,7 +90,6 @@ print(digits)
 
 Digits=⌊log
 10
-	​
 
 (n)⌋+1
 
@@ -101,7 +101,12 @@ int(3.735) + 1 = 4
 O(1)
 💾 Space Complexity
 O(1)
+
+<img width="526" height="703" alt="Screenshot 2026-06-09 220306" src="https://github.com/user-attachments/assets/e519dd8d-c563-4a28-b122-e80b9b3dce68" />
+
+
 🚀 Concepts Covered
+
 Modulus Operator (%)
 Floor Division (//)
 While Loop
