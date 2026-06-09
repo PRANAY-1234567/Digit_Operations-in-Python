@@ -40,6 +40,7 @@ O(1)
 
 
 2️⃣ Count Digits Using Loop
+
 📌 Description
 
 This program counts the number of digits in a given integer using a loop.
@@ -66,6 +67,10 @@ When the number becomes 0, the counter stores the total digits.
 O(d)
 💾 Space Complexity
 O(1)
+
+<img width="445" height="692" alt="Screenshot 2026-06-09 220238" src="https://github.com/user-attachments/assets/5db8452f-6c4b-4e09-b80d-25003fc9de35" />
+
+
 3️⃣ Count Digits Using log10()
 📌 Description
 
