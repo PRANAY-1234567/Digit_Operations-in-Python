@@ -15,12 +15,18 @@ while num > 0:
     last_digit = num % 10
     print(last_digit)
     num = num // 10
+
+	
 ▶️ Output
 3
 7
 8
 5
+
+<img width="589" height="749" alt="Screenshot 2026-06-09 220203" src="https://github.com/user-attachments/assets/0f860c9c-19a1-4ecb-9147-1ee5004c09c3" />
+
 🧠 How It Works
+
 % 10 gives the last digit.
 // 10 removes the last digit.
 Loop continues until the number becomes 0.
@@ -31,6 +37,8 @@ where d = number of digits.
 
 💾 Space Complexity
 O(1)
+
+
 2️⃣ Count Digits Using Loop
 📌 Description
 
